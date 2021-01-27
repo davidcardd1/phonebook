@@ -17,8 +17,6 @@ app.use(cors());
  //Initializing connection string
 var dbConfig = {
     user:  "WebClient",
-    password: "123456789",
-    server: "DESKTOP-RVGL8OV\\SQLDEVELOPER",
     password: "1234",
     server: "localhost",
     port: 1433,
